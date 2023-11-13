@@ -1,0 +1,93 @@
+[
+  {
+    "id": 11659239,
+    "name": "GR 128 Frans deeltraject: Bailleul-Kemmel",
+    "ref": "GR128",
+    "to": "",
+    "from": "",
+    "description": "",
+    "distance": 18.7,
+    "coordinates": [
+      [50.7396668, 2.7349286],
+      [50.7790139, 2.8129826]
+    ]
+  },
+  {
+    "id": 6477599,
+    "name": "GR 285 E04 Mendibai ibilbidea: Ereñotzu - Behobia",
+    "ref": "GR 285",
+    "to": "",
+    "from": "",
+    "description": "",
+    "distance": 35.3,
+    "coordinates": [
+      [43.242353, -1.9401845],
+      [43.3421588, -1.7608304]
+    ]
+  },
+  {
+    "id": 3507531,
+    "name": "GR11 E11 - Planoles - Puigcerda",
+    "ref": "GR11",
+    "to": "Puigcerda",
+    "from": "Planoles",
+    "description": "GR11 Etape 11 - Planoles - Puigcerda",
+    "distance": 17,
+    "coordinates": [
+      [42.3148273, 2.1029743],
+      [42.4317966, 1.9278693]
+    ]
+  },
+  {
+    "id": 3509467,
+    "name": "GR11 E15 - Arinsal - Refugi de Vallferrera",
+    "ref": "GR11",
+    "to": "Refugi de Vallferrera",
+    "from": "Encamp",
+    "description": "GR11 Etape 15 - Arinsal - Refugi de Vallferrera",
+    "distance": 19,
+    "coordinates": [
+      [42.5720821, 1.4844029],
+      [42.6251577, 1.3878782]
+    ]
+  },
+  {
+    "id": 3503719,
+    "name": "GR11 E04 - Requesens - La-Vajol",
+    "ref": "GR11",
+    "to": "La-Vajol",
+    "from": "Requesens",
+    "description": "GR11 Etape 04 - Requesens - La-Vajol",
+    "distance": 21,
+    "coordinates": [
+      [42.4505358, 2.9390873],
+      [42.4039078, 2.800086]
+    ]
+  },
+  {
+    "id": 33768,
+    "name": "GR 126 Bruxelles - Membre-sur-Semois",
+    "ref": "GR 126",
+    "to": "",
+    "from": "",
+    "description": "",
+    "distance": 224,
+    "coordinates": [
+      [50.8550018, 4.3512334],
+      [49.8655398, 4.9002694]
+    ]
+  },
+  {
+    "id": 1453949,
+    "name": "GR 4 Puigcerdà-Montserrat",
+    "ref": "GR 4",
+    "to": "",
+    "from": "",
+    "description": "",
+    "distance": 163.64,
+    "coordinates": [
+      [42.4317966, 1.9278693],
+      [41.6098733, 1.8453059]
+    ]
+  }
+]

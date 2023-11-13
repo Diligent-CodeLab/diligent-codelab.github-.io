@@ -1,0 +1,47 @@
+[
+  {
+    "order_number": 5649684,
+    "order_date": "20230913",
+    "articles": [
+      {
+        "id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "quantity": 1
+      }
+    ],
+    "total": 180
+  },
+  {
+    "order_number": 132547498,
+    "order_date": "20221220",
+    "articles": [
+      {
+        "id": 7,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "quantity": 1
+      }
+    ],
+    "total": 130
+  },
+  {
+    "order_number": 984621,
+    "order_date": "20220630",
+    "articles": [
+      {
+        "id": 8,
+        "quantity": 1
+      }
+    ],
+    "total": 80
+  }
+]

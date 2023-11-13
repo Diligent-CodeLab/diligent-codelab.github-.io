@@ -1,0 +1,15 @@
+[
+  { "id": 1, "name": "footwear", "price": 50, "img": "footwear.jpg" },
+  { "id": 2, "name": "backpack", "price": 80, "img": "backpack.jpg" },
+  { "id": 3, "name": "first aid kit", "price": 40, "img": "first_aid_kit.jpg" },
+  { "id": 4, "name": "headlamp", "price": 30, "img": "headlamp.jpg" },
+  {
+    "id": 5,
+    "name": "reusable bottle",
+    "price": 20,
+    "img": "reusable_bottle.jpg"
+  },
+  { "id": 6, "name": "top", "price": 70, "img": "top_f.jpg" },
+  { "id": 7, "name": "top", "price": 70, "img": "top.jpg" },
+  { "id": 8, "name": "trousers", "price": 80, "img": "trousers.jpg" }
+]
